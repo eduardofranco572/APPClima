@@ -1,11 +1,11 @@
 # APPClima
 
-Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de Font-End. o porjeto se trata de um site que utiliza a API de clima para mostrar qual o clima de cada cidade!, projeto realizei apenas em front end.
+Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de Font-End. o porjeto se trata de um site que utiliza a API de clima para mostrar qual o clima de cada cidade!
 
 <br>
  <div align="center">
     <h1>Site do Projeto:</h1>
-    https://eduardofranco572.github.io/PlayStation-Dashboard/
+    https://eduardofranco572.github.io/APPClima/
    <br>    
 </div>
 <br>
